@@ -1,0 +1,6 @@
+{
+  "name": "TwinSync - Jumeau Numérique IoT Industriel",
+  "description": "Jumeau numérique interactif 3D d'un équipement connecté avec télémétrie temps réel, vue éclatée, diagnostic thermique et maintenance prédictive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
