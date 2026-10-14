@@ -94,5 +94,9 @@ npm run build
 
 ---
 
+<img width="1376" height="804" alt="image" src="https://github.com/user-attachments/assets/3bff7ee2-c25a-434d-a8bb-9591c4c8e46d" />
+<img width="1379" height="802" alt="image" src="https://github.com/user-attachments/assets/5958b77a-d617-495f-b1f1-4b671141e181" />
+
+
 ## 📄 Licence
-Ce projet est développé sous licence **Apache 2.0**.
+Ce projet est développé sous licence **Apache 2.0**. Avec BENABOUD ROQIA IA ET SD
